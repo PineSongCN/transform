@@ -240,7 +240,8 @@
         },
         M = {
           paths: {
-            vs: "https://cdn.jsdelivr.net/npm/monaco-editor@0.25.2/min/vs"
+            vs:
+              "https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/monaco-editor/0.25.2/min/vs"
           }
         };
       var E = function(e) {
