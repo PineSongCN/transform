@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useLocalStorage } from \"@hooks/useLocalStorage\";\nexport function useSettings(name, initialValue) {\n  return useLocalStorage(`settings:${name}`, initialValue);\n}","map":null,"metadata":{},"sourceType":"module"}

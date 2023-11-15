@@ -1,0 +1,1 @@
+{"ast":null,"code":"// @ts-ignore\nimport { compiler, beautify } from \"flowgen\";\nexport default ((req, res) => {\n  try {\n    const result = compiler.compileDefinitionString(req.body);\n    res.status(200).send(beautify(result));\n  } catch (e) {\n    console.log(e);\n    res.status(500).send(e.message);\n  }\n});","map":null,"metadata":{},"sourceType":"module"}

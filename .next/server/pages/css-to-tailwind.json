@@ -1,0 +1,10 @@
+{
+  "pageProps": {
+    "defaultSettings": {
+      "tailwindConfig": "/** @type {import('tailwindcss').Config} */\nmodule.exports = {\n  content: [],\n  theme: {\n    extend: {},\n  },\n  plugins: [],\n}\n",
+      "remInPx": "16",
+      "arbitraryPropertiesIsEnabled": false
+    }
+  },
+  "__N_SSG": true
+}

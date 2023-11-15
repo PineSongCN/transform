@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as data from \"@constants/data\";\nimport { useSessionStorage } from \"@hooks/useSessionStorage\";\nexport function useData(type) {\n  return type ? useSessionStorage(\"data:\".concat(type), data[type]) : [,];\n}","map":null,"metadata":{},"sourceType":"module"}

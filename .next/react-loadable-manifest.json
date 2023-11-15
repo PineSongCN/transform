@@ -1,0 +1,66 @@
+{
+  "../components/EditorPanel.tsx -> ../components/Monaco": {
+    "id": "FNUm",
+    "files": ["static/chunks/20.1c83df82a17e017bdc9b.js"]
+  },
+  "css-to-tailwind.tsx -> ../components/Monaco": {
+    "id": "FNUm",
+    "files": ["static/chunks/20.1c83df82a17e017bdc9b.js"]
+  },
+  "json-schema-to-zod.tsx -> json-schema-to-zod": {
+    "id": "XO+A",
+    "files": [
+      "static/chunks/0fd30404.1a55ce477550305030a4.js",
+      "static/chunks/a2048622.6ef61b6e29c9c5227b27.js",
+      "static/chunks/91549a07469c7cf2f2806a15504756fae411ac98.55533fda3d61a536893f.js",
+      "static/chunks/070b6d62360057aae2095418a69741e3f7f95345.19b7566e348fa0425b92.js",
+      "static/chunks/95.1a13d7e1b992c65e0642.js"
+    ]
+  },
+  "json-to-java.tsx -> json_typegen_wasm": {
+    "id": "P0Z9",
+    "files": [
+      "static/chunks/909bdc28.b6bc231a46938d1698d9.js",
+      "static/chunks/11.63d91a55fdd53a876cdf.js",
+      "static/chunks/18.0aa0fcf4d4d6dc7fcfaa.js"
+    ]
+  },
+  "json-to-json-schema.tsx -> json_typegen_wasm": {
+    "id": "P0Z9",
+    "files": [
+      "static/chunks/909bdc28.b6bc231a46938d1698d9.js",
+      "static/chunks/11.63d91a55fdd53a876cdf.js",
+      "static/chunks/18.0aa0fcf4d4d6dc7fcfaa.js"
+    ]
+  },
+  "json-to-kotlin.tsx -> json_typegen_wasm": {
+    "id": "P0Z9",
+    "files": [
+      "static/chunks/909bdc28.b6bc231a46938d1698d9.js",
+      "static/chunks/11.63d91a55fdd53a876cdf.js",
+      "static/chunks/18.0aa0fcf4d4d6dc7fcfaa.js"
+    ]
+  },
+  "json-to-rust-serde.tsx -> json_typegen_wasm": {
+    "id": "P0Z9",
+    "files": [
+      "static/chunks/909bdc28.b6bc231a46938d1698d9.js",
+      "static/chunks/11.63d91a55fdd53a876cdf.js"
+    ]
+  },
+  "json-to-typescript.tsx -> json_typegen_wasm": {
+    "id": "P0Z9",
+    "files": [
+      "static/chunks/909bdc28.b6bc231a46938d1698d9.js",
+      "static/chunks/11.63d91a55fdd53a876cdf.js"
+    ]
+  },
+  "json-to-zod.tsx -> json-to-zod": {
+    "id": "hJoI",
+    "files": [
+      "static/chunks/28a83811.aa95acc3003267c2f249.js",
+      "static/chunks/638bec0f.57256dd9b363673a0592.js",
+      "static/chunks/96.fd810f40c9179995775b.js"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import html2pug from \"html2pug\";\nexport default ((req, res) => {\n  try {\n    const {\n      value,\n      settings\n    } = req.body;\n    const result = html2pug(value, settings);\n    res.status(200).send(result);\n  } catch (e) {\n    res.status(500).send(e.message);\n  }\n});","map":null,"metadata":{},"sourceType":"module"}

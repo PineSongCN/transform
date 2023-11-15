@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "routes": {
+    "/css-to-tailwind": {
+      "initialRevalidateSeconds": false,
+      "srcRoute": null,
+      "dataRoute": "/_next/data/qYB2-S4G7SVmZBtbASSRg/css-to-tailwind.json"
+    }
+  },
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "4ac660d85883dd18c6fd7ed0c1e1f03e",
+    "previewModeSigningKey": "8c4a317747f53cdd11a7680330ce71554177306c2336e91ee082ca7c2214ca39",
+    "previewModeEncryptionKey": "b19e100f446ea84c67a0cb9e00b771e953786df251614b1598a885effef448e3"
+  }
+}
